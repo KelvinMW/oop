@@ -4,5 +4,9 @@ public class main {
         Tree myownTree2 = new Tree(70,7,TreeType.PECAN);
         myownTree.Tall();
         myownTree2.Tall();
+
+        Users mailusers = new Users();
+
+        mailusers.userlist = new mailuserlist;
     }
 }
